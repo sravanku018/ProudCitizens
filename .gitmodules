@@ -1,0 +1,3 @@
+[submodule "themes/ananke"]
+	path = themes/ink
+	url = https://github.com/knadh/hugo-ink
